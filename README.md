@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivani Vhatkar
 - 👀 I’m interested in travelling, reading and cooking.
-- 🌱 I’m currently learning Javascript and fundamentals of UI/UX.
+- 🌱 I’m currently learning Javascript.
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love vlogging, and have a youtube channel @thatvoguechic :)
 
