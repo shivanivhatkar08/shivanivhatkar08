@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivani Vhatkar
-- 👀 I’m interested in travelling, reading and cooking.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m a CS Grad Student who also loves travelling, reading and cooking.
+- 🌱 I’m currently interested in Data Analytics and Vizualization.
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love vlogging, and have a youtube channel @thatvoguechic :)
 
