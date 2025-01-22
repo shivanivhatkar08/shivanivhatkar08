@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivani Vhatkar
 - 👀 I’m a CS Grad Student who also loves travelling, reading and cooking.
-- 🌱 I’m currently interested in Data Analytics and Vizualization.
+- 🌱 I have a passion for working with data—whether it’s analyzing trends, creating compelling visualizations, or managing it efficiently through databases.
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love vlogging, and have a youtube channel @thatvoguechic :)
 
